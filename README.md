@@ -3,14 +3,12 @@
 <a href="https://www.buymeacoffee.com/peggypytang" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> Buy me a ☕️ if you like and want to support my projects. :)
 
 ## TL;DR
----
 
 EmoDJ is a brand-new offline music player desktop application that focuses on improving listeners' emotional wellness. 
 
 This application is designed based on psychology theories. It is powered by state-of-the-art AI technology to automatically identify music emotion of your songs. 
 
 ## Key Features
----
 
 * AI-powered music emotion recognition - identify music emotions automatically for songs in your music library.
 * Innovative music retrieval panel - organise songs based on psychology theories and retrieve songs from your music library by music emotion.
@@ -18,7 +16,6 @@ This application is designed based on psychology theories. It is powered by stat
 * No fee, no ad, no tracking. Completely offline.
 
 ## Motivation
----
 
 Psychology researches show that music could change and support our mood. The power of mood regulation is the main reason why so many of us like to listen to music. We listen to music in our daily life, and we have different preferences for music in different emotional situations.
 
@@ -40,7 +37,6 @@ of affect: An integrative approach to affective neuroscience, cognitive developm
 
 
 ## Design
----
 
 #### Music Emotion Recognition Engine
 
@@ -67,7 +63,6 @@ In addition to standard functions including next, pause, resume, it provides rec
 This engine processes music data to generate music visualisation effects for each music. While playing music, colourful dynamic effect is generated simultaneously. Loudness and frequency, obtained by Fast Fourier Transform, controls magnitude of the effect. Time-varying music emotion controls colour, which has the same colour association as the music retrieval panel.
 
 ## System Configuration
----
 
 EmoDJ is a desktop application based on Python 3 with GUI. Programs and resources required, including application codes, music emotion recognition models, index files, music files, are under 'EmoDJ Music Player' folder.
 
@@ -88,7 +83,6 @@ For smooth execution of EmoDJ, ensure below packages are installed before execut
 * pygame (version 1.9.6)
 
 ## Getting Started
----
 
 **User should copy whole 'EmoDJ Music Player' folder and store in their local device.**
 
@@ -158,7 +152,6 @@ To quit EmoDJ, click 'Quit' button. To restart after quit, click 'Kernel - Resta
 </p>
 
 ## Troubleshooting
----
 
 * **Unsychronisation of music visualisation and sound:**
 
