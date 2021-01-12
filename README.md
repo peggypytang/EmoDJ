@@ -95,21 +95,21 @@ Recommended music playlist based on music emotion similarity is generated upon s
   <img src="https://github.com/peggypytang/EmoDJ/blob/main/manual_screenshot/5end.jpg" width="600px">
 </p>
 
-**6. Play Next Music in Playlist**
+**6. Play Next Music in Playlist:**
 To play next music in the playlist, click the 'Next' button.
 
 <p align="center">
   <img src="https://github.com/peggypytang/EmoDJ/blob/main/manual_screenshot/6next.jpg" width="600px">
 </p>
 
-**7. Resume/Pause Playing**
+**7. Resume/Pause Playing:**
 To resume or pause the playing of music, click the 'Resume/Pause' button.
 
 <p align="center">
   <img src="https://github.com/peggypytang/EmoDJ/blob/main/manual_screenshot/7resume.jpg" width="600px">
 </p>
 
-**8. Quit EmoDJ**
+**8. Quit EmoDJ:**
 To quit EmoDJ, click 'Quit' button. To restart after quit, click 'Kernel - Restart and Run All' in Jupyter notebook.
 
 <p align="center">
