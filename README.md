@@ -7,12 +7,12 @@ Buy me a ☕️ if you like and want to support my projects. :)
 
 EmoDJ is a brand-new offline music player desktop application that focuses on improving listeners' emotional wellness. 
 
-This application is powered by state-of-the-art AI technology and designed for mood regulation by selecting songs based on automatically identified music emotion at your preference.
+This application is designed based on psychology theories. It is powered by state-of-the-art AI technology to automatically identify music emotion of your songs. 
 
 ### Key Features
 
 * AI-powered music emotion recognition - identify music emotions automatically for songs in your music library.
-* Innovative music retrieval panel - organise songs based on emotion theory and retrieve songs from your music library by music emotion.
+* Innovative music retrieval panel - organise songs based on psychology theories and retrieve songs from your music library by music emotion.
 * Playlist recommendation - keep on playing songs with similar music emotion.
 
 ### Motivation
