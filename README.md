@@ -6,7 +6,7 @@
 
 EmoDJ is a brand-new offline music player desktop application that focuses on improving listeners' emotional wellness. 
 
-This application is designed based on psychology theories. It is powered by state-of-the-art AI technology to automatically identify music emotion of your songs. 
+This application is designed based on psychology theories. It is powered by machine learning to automatically identify music emotion of your songs. 
 
 ## Key Features
 
@@ -48,15 +48,15 @@ If you are interested in the details of training, refer to 'Music_Emotion_Recogn
 
 #### Music Retrieval Panel
 
-Four quadrants in arousal-valence space are represented by four colours correspondingly. 
+Four quadrants in arousal-valence space are represented by four colours associated to music emotion. 
 
-💛 Quadrant with positive arousal and valence value (associates with **happiness**) is presented in green-yellow. 
+💛 Green-yellow (associates with **happiness**): Quadrant with positive arousal and valence value. 
 
-💚 Quadrant with negative arousal and positive valence value (associated with **relaxation**) is presented in green-blue.
+💚 Green-blue (associated with **relaxation**): Quadrant with negative arousal and positive valence value.
 
-💙 Quadrant with negative arousal and valence value (associated with **sadness**) is presented in blue. 
+💙 Blue (associated with **sadness**): Quadrant with negative arousal and valence value. 
 
-❤️ Quadrant with positive arousal and negative valence value (associated with **anger**) is presented in red. 
+❤️ Red (associated with **anger**): Quadrant with positive arousal and negative valence value. 
 
 #### Music Player and Recommendation Engine
 
