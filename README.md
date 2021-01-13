@@ -42,6 +42,10 @@ of affect: An integrative approach to affective neuroscience, cognitive developm
 
 The recognition engine would be used to annotate music emotion for music stored in the user library. Arousal-valence dimensional model was used. Music emotion, represented by arousal and valence values, is recognised and annotated both for the whole song and also for each 5 second timeframe. This music emotion information is used as a search index for retrieval and music visualisation.
 
+The models are pre-trained and are under 'EmoDJ Music Player/model' folder. SVR model was used on MFCCs to predict time-varying arousal and valence values on the scale of [-1,1]. Dataset of 1000 Songs for Emotional Analysis of Music was used for training and testing the recognition model.
+
+If you are interested in the details of training, refer to 'Music_Emotion_Recognition_Model_Code.ipynb' under 'Music Emotion Recognition Model Training' folder
+
 #### Music Retrieval Panel
 
 Four quadrants in arousal-valence space are represented by four colours correspondingly. 
