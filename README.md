@@ -78,9 +78,13 @@ EmoDJ Music Player
 Users are provided with a GUI to interact with the application, including browsing music information, retrieving music, pausing and resuming music. The screen would display live music visualisation.
 
 For smooth execution of EmoDJ, ensure below packages are installed before execution is attempted. EmoDJ was tested under macOS Big Sur 11.1 with below package versions.
+
+* python (version 3.7)
 * tkinter (version 8.6)
 * librosa (version 0.6.3)
 * pygame (version 1.9.6)
+* pandas (version 1.2.0)
+* scikit-learn (version 0.20.1)
 
 ## Getting Started
 
