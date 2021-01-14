@@ -38,9 +38,9 @@ of affect: An integrative approach to affective neuroscience, cognitive developm
 
 ## Design
 
-#### Music Emotion Recognition Engine
+#### AI-powered Music Emotion Recognition Engine
 
-The recognition engine would be used to annotate music emotion for music stored in the user library. Arousal-valence dimensional model was used. Music emotion, represented by arousal and valence values, is recognised and annotated both for the whole song and also for each 5 second timeframe. This music emotion information is used as a search index for retrieval and music visualisation.
+Music emotion of the songs, represented by arousal and valence values, is recognised and annotated automatically by the machine learning model. This music emotion information is used as a search index for retrieval and music visualisation.
 
 #### Music Retrieval Panel
 
